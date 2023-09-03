@@ -2,7 +2,7 @@
 
 I maked traditional Todo App for improve react skills
 
-##💻 Tech Stack
+## 💻 Tech Stack
 
 - Language: [Javascript]("https://tr.wikipedia.org/wiki/JavaScript")
 - Framework: [React]("https://react.dev")
